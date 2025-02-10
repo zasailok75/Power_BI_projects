@@ -37,12 +37,12 @@ The dataset contains the following fields:
 Feel free to explore, share, and collaborate! Your insights are in valuable. 🚀
 
 # Contributors:
-ARJUN THORLIKONDA 
+PULI SAILOKESH REDDY
 
 #### © Copyright powerBI corporation
 
-#### © Copyright 2024 - [ARJUN T](https://github.com/ARJUN151503)
-<a href="https://www.linkedin.com/in/arjun-thorlikonda-422b9a256/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
+#### © Copyright 2024 - [SAILOKESH REDDY P](https://github.com/zasailok75)
+<a href="[https://www.linkedin.com/in/arjun-thorlikonda-422b9a256](https://github.com/zasailok75)/"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 
 📊 DataAnalytics | 📦 Amazon | 📊 PowerBI | 🌐 GitHub | 📈 DataVisualization
